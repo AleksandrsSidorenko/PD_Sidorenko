@@ -1,3 +1,3 @@
-# PD_Sidorenko
+#Sidorenko ALeksandrs PD_Sidorenko
 Patstāvīgais praktiskais darbs programmēšanā
 Patstāvīgais darbs platformā GitHub ar versiju kontroles sistēmu Git
